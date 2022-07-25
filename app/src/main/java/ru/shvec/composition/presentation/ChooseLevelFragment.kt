@@ -6,7 +6,6 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import androidx.navigation.fragment.findNavController
-import ru.shvec.composition.R
 import ru.shvec.composition.databinding.FragmentChooseLevelBinding
 import ru.shvec.composition.domain.entity.Level
 

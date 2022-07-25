@@ -13,7 +13,6 @@ import androidx.navigation.fragment.findNavController
 import androidx.navigation.fragment.navArgs
 import ru.shvec.composition.databinding.FragmentGameBinding
 import ru.shvec.composition.domain.entity.GameResult
-import ru.shvec.composition.domain.entity.Level
 
 class GameFragment : Fragment() {
 
